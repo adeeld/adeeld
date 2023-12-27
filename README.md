@@ -1,5 +1,5 @@
 ![logo](https://github.com/adeeld/adeeld/blob/main/hiddenleaf.png)
-<h1 align="center">Salaam 👋, I'm Adeel D</h1>
+<h1 align="center">Salaam (peace be upon you) 👋, I'm Adeel D</h1>
 <h3 align="center">A passionate software engineer from NYC</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/5YRq9jP0M1gAAAAC/uzumaki-naruto-child.gif">
