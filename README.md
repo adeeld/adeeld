@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **a social media platform...**
 
-- 🌱 I’m currently learning **AI, ML, and Quant**
+- 🌱 I’m currently learning **AI, ML, and Full-stack Development**
 
-- 📫 How to reach me **adeel.durrani@rutgers.edu**
+- 📫 How to reach me **adeeldurranii@gmail.com**
 
-- ⚡ Fun fact **I love surfing and Teslas!**
+- ⚡ Fun fact **I love surfing and learning about businesses**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
