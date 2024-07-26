@@ -2,8 +2,6 @@
 <h1 align="center">Salaam (peace be upon you) 👋, I'm Adeel D</h1>
 <h3 align="center">A passionate software engineer from NYC</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/5YRq9jP0M1gAAAAC/uzumaki-naruto-child.gif">
-
 - 🔭 I’m currently working on **a social media platform...**
 
 - 🌱 I’m currently learning **AI, ML, and Full-stack Development**
