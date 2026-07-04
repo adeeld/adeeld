@@ -1,9 +1,9 @@
 <h1 align="center">Hey! I'm Adeel D</h1>
 <h3 align="center">A passionate software engineer from NYC</h3>
 
-- 🔭 I’m currently working on **a social media platform...**
+- 🔭 I’m currently working on B2C app**
 
-- 🌱 I’m currently learning **AI, ML, and Full-stack Development**
+- 🌱 I’m currently learning **Agents, Full-Stack Development, and GTM Strategies**
 
 - 📫 How to reach me **adeeldurranii@gmail.com**
 
