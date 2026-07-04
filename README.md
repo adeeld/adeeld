@@ -1,4 +1,3 @@
-![logo](https://github.com/adeeld/adeeld/blob/main/hiddenleaf.png)
 <h1 align="center">Hey! I'm Adeel D</h1>
 <h3 align="center">A passionate software engineer from NYC</h3>
 
