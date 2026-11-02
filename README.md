@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<a href="https://instagram.com/adeeldurranii" target="_blank"> 
+<a href="https://instagram.com/adeeldurranii"> 
 <img 
   src="https://cdn.simpleicons.org/instagram/000000/FFFFFF" 
   alt="instagram account" 
@@ -20,7 +20,7 @@
 </a>
 
   
-<a href="https://linkedin.com/in/adeeld" target="_blank"> 
+<a href="https://linkedin.com/in/adeeld"> 
 <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"
   alt="linkedin icon" 
@@ -29,7 +29,7 @@
   />
 </a>
 
-<a href="https://x.com/adeeldurranii" target="_blank">
+<a href="https://x.com/adeeldurranii">
 <img
     src="https://cdn.simpleicons.org/x/000000/FFFFFF"
     alt="X (Twitter)"
