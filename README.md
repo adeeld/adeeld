@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from NYC</h3>
 
 <h3 align="center">🔭 I’m currently building a large scale B2C app</h3>
-<h3 align="center">📫 How to reach me **adeeldurranii@gmail.com**</h3>
+<h3 align="center">📫 How to reach me: adeeldurranii@gmail.com</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
