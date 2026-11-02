@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Adeel</h1>
 <h3 align="center">A Software Engineer from NYC</h3>
 
-- 🔭 I’m currently trying to build a large scale B2C app
+- 🔭 I’m currently building a large scale B2C app
 
 - 📫 How to reach me **adeeldurranii@gmail.com**
 
